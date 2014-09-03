@@ -8,7 +8,7 @@ import java.io.IOException;
  */
 public class TestCase {
 
-    public static final String token = "3xCfcAt4ssxkMEP4MOf/mGi83Ms=";
+    public static final String token = "Vx0H9o7NMAOwrFW9uV49AvRBZ/8=";
 
     //统一支付
     @Test
